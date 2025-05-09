@@ -1,0 +1,155 @@
+[
+  {
+    "id_jns_ks": 1,
+    "nm_jns_ks": "Magang Praktek Kerja Industri (Prakerin) Siswa SMK",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2022-07-01 22:04:45.674",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.674"
+  },
+  {
+    "id_jns_ks": 2,
+    "nm_jns_ks": "Magang Praktek Kerja Industri (Prakerin) Guru SMK",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2022-07-01 22:04:45.675",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.675"
+  },
+  {
+    "id_jns_ks": 3,
+    "nm_jns_ks": "Pembelajaran Berbasis Proyek Nyata dari Dunia Kerja (TEFA)",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2022-07-01 22:04:45.675",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.675"
+  },
+  {
+    "id_jns_ks": 4,
+    "nm_jns_ks": "Penyelarasan Kurikulum",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2022-07-01 22:04:45.675",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.675"
+  },
+  {
+    "id_jns_ks": 5,
+    "nm_jns_ks": "Kerjasama Komersial",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2022-07-01 22:04:45.675",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.675"
+  },
+  {
+    "id_jns_ks": 11,
+    "nm_jns_ks": "Bantuan Sarana Prasarana",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2022-07-01 22:04:45.676",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.676"
+  },
+  {
+    "id_jns_ks": 12,
+    "nm_jns_ks": "Sertifikasi Kompetensi",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2022-07-01 22:04:45.676",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.676"
+  },
+  {
+    "id_jns_ks": 13,
+    "nm_jns_ks": "Pelatihan dari Dunia Kerja",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2022-07-01 22:04:45.676",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.676"
+  },
+  {
+    "id_jns_ks": 14,
+    "nm_jns_ks": "Penyerapan Lulusan",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2022-07-01 22:04:45.676",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.676"
+  },
+  {
+    "id_jns_ks": 15,
+    "nm_jns_ks": "Guru/Dosen/Tenaga Ahli dari Dunia Kerja",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2022-07-01 22:04:45.676",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.676"
+  },
+  {
+    "id_jns_ks": 16,
+    "nm_jns_ks": "CSR",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2022-07-01 22:04:45.677",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.677"
+  },
+  {
+    "id_jns_ks": 17,
+    "nm_jns_ks": "Lomba Kompetensi Siswa",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2022-07-01 22:04:45.677",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.677"
+  },
+  {
+    "id_jns_ks": 18,
+    "nm_jns_ks": "Riset Terapan",
+    "ket_jns_ks": null,
+    "create_date": "2021-07-15 14:00:00",
+    "last_update": "2022-07-01 22:04:45.677",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.677"
+  },
+  {
+    "id_jns_ks": 19,
+    "nm_jns_ks": "Beasiswa",
+    "ket_jns_ks": null,
+    "create_date": "2021-07-15 14:00:00",
+    "last_update": "2022-07-01 22:04:45.677",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.677"
+  },
+  {
+    "id_jns_ks": 20,
+    "nm_jns_ks": "Ikatan Dinas",
+    "ket_jns_ks": null,
+    "create_date": "2021-07-15 14:00:00",
+    "last_update": "2022-07-01 22:04:45.677",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.677"
+  },
+  {
+    "id_jns_ks": 999998,
+    "nm_jns_ks": "Lainnya",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2022-07-01 22:04:45.678",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.678"
+  },
+  {
+    "id_jns_ks": 999999,
+    "nm_jns_ks": "Tidak diisi",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2022-07-01 22:04:45.678",
+    "expired_date": "2016-06-23 11:00:00",
+    "last_sync": "2022-07-01 22:04:45.678"
+  }
+]

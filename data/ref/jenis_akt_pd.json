@@ -1,0 +1,38 @@
+[
+  {
+    "id_jns_akt_pd": 1,
+    "nm_jns_akt_pd": "Prakerin Siswa SMK",
+    "ket_jns_akt_pd": null,
+    "create_date": "2016-07-28 13:45:50.063",
+    "last_update": "2022-07-01 22:04:49.812",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.812"
+  },
+  {
+    "id_jns_akt_pd": 2,
+    "nm_jns_akt_pd": "Prakerin Guru SMK",
+    "ket_jns_akt_pd": null,
+    "create_date": "2016-07-28 13:45:50.063",
+    "last_update": "2022-07-01 22:04:49.812",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.812"
+  },
+  {
+    "id_jns_akt_pd": 3,
+    "nm_jns_akt_pd": "Pengembangan Teaching Factory",
+    "ket_jns_akt_pd": null,
+    "create_date": "2016-07-28 13:45:50.063",
+    "last_update": "2022-07-01 22:04:49.812",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.812"
+  },
+  {
+    "id_jns_akt_pd": 4,
+    "nm_jns_akt_pd": "Kelas Industri",
+    "ket_jns_akt_pd": null,
+    "create_date": "2021-08-18 16:46:14",
+    "last_update": "2022-07-01 22:04:49.812",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.812"
+  }
+]

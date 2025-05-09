@@ -1,0 +1,58 @@
+[
+  {
+    "akreditasi_id": 1,
+    "nama": "A",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:43.718",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:43.718"
+  },
+  {
+    "akreditasi_id": 2,
+    "nama": "B",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:43.72",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:43.72"
+  },
+  {
+    "akreditasi_id": 3,
+    "nama": "C",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:43.723",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:43.723"
+  },
+  {
+    "akreditasi_id": 4,
+    "nama": "Terakreditasi",
+    "create_date": "2016-08-10 00:10:16.753",
+    "last_update": "2022-07-01 22:04:43.725",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:43.725"
+  },
+  {
+    "akreditasi_id": 8,
+    "nama": "Tidak Terakreditasi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:43.727",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:43.727"
+  },
+  {
+    "akreditasi_id": 9,
+    "nama": "Belum Terakreditasi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:43.729",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:43.729"
+  },
+  {
+    "akreditasi_id": 5,
+    "nama": "Sertifikat Kedaluwarsa",
+    "create_date": "2022-12-16 10:32:32.653",
+    "last_update": "2023-05-29 13:02:09.523",
+    "expired_date": null,
+    "last_sync": "2023-05-29 13:02:09.523"
+  }
+]

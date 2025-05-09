@@ -1,0 +1,142 @@
+[
+  {
+    "peran_id": 10,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Operator Sekolah",
+    "a_perlu_sk": 0,
+    "create_date": "2013-04-30 00:00:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 53,
+    "bentuk_pendidikan_id": 5,
+    "nama": "PTK",
+    "a_perlu_sk": 0,
+    "create_date": "2015-03-11 06:15:03",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 59,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Individu PTK",
+    "a_perlu_sk": 0,
+    "create_date": "2015-07-09 17:36:04.24",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 90,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Peserta Didik",
+    "a_perlu_sk": 0,
+    "create_date": "2017-01-30 10:00:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 71,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Kepala Sekolah",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 72,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Wakil Kepala Sekolah",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 73,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Wali Kelas",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 74,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Bendahara BOS",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 75,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Bendahara",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 76,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Tenaga Administrasi Sekolah",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 77,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Tutor",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 78,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Instruktur",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 79,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Kepala Perpustakaan",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  },
+  {
+    "peran_id": 80,
+    "bentuk_pendidikan_id": 5,
+    "nama": "Pelaksana PBJ",
+    "a_perlu_sk": 0,
+    "create_date": "2020-09-08 03:30:00",
+    "last_update": "2024-07-16 09:34:44.877",
+    "expired_date": null,
+    "last_sync": "2024-07-16 09:34:44.877"
+  }
+]

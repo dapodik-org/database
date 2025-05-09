@@ -1,0 +1,79 @@
+[
+  {
+    "jenis_beasiswa_id": 1,
+    "sumber_dana_id": 999,
+    "nama": "Prestasi",
+    "untuk_pd": 1,
+    "untuk_ptk": 1,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:49.887",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.887"
+  },
+  {
+    "jenis_beasiswa_id": 2,
+    "sumber_dana_id": 999,
+    "nama": "Kemiskinan",
+    "untuk_pd": 1,
+    "untuk_ptk": 0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:49.893",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.893"
+  },
+  {
+    "jenis_beasiswa_id": 3,
+    "sumber_dana_id": 999,
+    "nama": "Pendidikan",
+    "untuk_pd": 1,
+    "untuk_ptk": 1,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:49.894",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.894"
+  },
+  {
+    "jenis_beasiswa_id": 4,
+    "sumber_dana_id": 999,
+    "nama": "Unggulan",
+    "untuk_pd": 1,
+    "untuk_ptk": 1,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:49.894",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.894"
+  },
+  {
+    "jenis_beasiswa_id": 5,
+    "sumber_dana_id": 999,
+    "nama": "Ikatan Dinas",
+    "untuk_pd": 0,
+    "untuk_ptk": 1,
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:04:49.894",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.894"
+  },
+  {
+    "jenis_beasiswa_id": 6,
+    "sumber_dana_id": 999,
+    "nama": "Peningkatan Karir",
+    "untuk_pd": 0,
+    "untuk_ptk": 1,
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:04:49.894",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.894"
+  },
+  {
+    "jenis_beasiswa_id": 99,
+    "sumber_dana_id": 999,
+    "nama": "Lainnya",
+    "untuk_pd": 1,
+    "untuk_ptk": 1,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:49.895",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:49.895"
+  }
+]

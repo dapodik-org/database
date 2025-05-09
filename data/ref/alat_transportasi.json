@@ -1,0 +1,106 @@
+[
+  {
+    "alat_transportasi_id": 1,
+    "nama": "Jalan kaki",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.747",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.747"
+  },
+  {
+    "alat_transportasi_id": 2,
+    "nama": "Kendaraan pribadi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.747",
+    "expired_date": "2013-10-07 00:00:00",
+    "last_sync": "2022-07-01 22:04:45.747"
+  },
+  {
+    "alat_transportasi_id": 3,
+    "nama": "Angkutan umum/bus/pete-pete",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.748",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.748"
+  },
+  {
+    "alat_transportasi_id": 4,
+    "nama": "Mobil/bus antar jemput",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.748",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.748"
+  },
+  {
+    "alat_transportasi_id": 5,
+    "nama": "Kereta api",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.748",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.748"
+  },
+  {
+    "alat_transportasi_id": 6,
+    "nama": "Ojek",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.748",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.748"
+  },
+  {
+    "alat_transportasi_id": 7,
+    "nama": "Andong/bendi/sado/dokar/delman/becak",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.748",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.748"
+  },
+  {
+    "alat_transportasi_id": 8,
+    "nama": "Perahu penyeberangan/rakit/getek",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.749",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.749"
+  },
+  {
+    "alat_transportasi_id": 11,
+    "nama": "Kuda",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:04:45.749",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.749"
+  },
+  {
+    "alat_transportasi_id": 12,
+    "nama": "Sepeda",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:04:45.749",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.749"
+  },
+  {
+    "alat_transportasi_id": 13,
+    "nama": "Sepeda motor",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:04:45.749",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.749"
+  },
+  {
+    "alat_transportasi_id": 14,
+    "nama": "Mobil pribadi",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:04:45.749",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.749"
+  },
+  {
+    "alat_transportasi_id": 99,
+    "nama": "Lainnya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.749",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.749"
+  }
+]

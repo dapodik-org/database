@@ -1,0 +1,98 @@
+[
+  {
+    "jenis_tinggal_id": 0,
+    "nama": "unknown",
+    "create_date": "2014-01-02 04:21:06.997",
+    "last_update": "2022-07-01 22:04:45.784",
+    "expired_date": "2014-01-02 04:21:06.997",
+    "last_sync": "2022-07-01 22:04:45.784"
+  },
+  {
+    "jenis_tinggal_id": 1,
+    "nama": "Bersama orang tua",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.784",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.784"
+  },
+  {
+    "jenis_tinggal_id": 2,
+    "nama": "Wali",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.784",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.784"
+  },
+  {
+    "jenis_tinggal_id": 3,
+    "nama": "Kost",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.785",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.785"
+  },
+  {
+    "jenis_tinggal_id": 4,
+    "nama": "Asrama",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.785",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.785"
+  },
+  {
+    "jenis_tinggal_id": 5,
+    "nama": "Panti asuhan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.785",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.785"
+  },
+  {
+    "jenis_tinggal_id": 6,
+    "nama": "unknown",
+    "create_date": "2014-01-02 04:21:23.35",
+    "last_update": "2022-07-01 22:04:45.785",
+    "expired_date": "2014-01-02 04:21:06.997",
+    "last_sync": "2022-07-01 22:04:45.785"
+  },
+  {
+    "jenis_tinggal_id": 7,
+    "nama": "unknown",
+    "create_date": "2014-01-02 04:21:33.86",
+    "last_update": "2022-07-01 22:04:45.785",
+    "expired_date": "2014-01-02 04:21:23.35",
+    "last_sync": "2022-07-01 22:04:45.785"
+  },
+  {
+    "jenis_tinggal_id": 8,
+    "nama": "unknown",
+    "create_date": "2014-01-02 04:21:42.53",
+    "last_update": "2022-07-01 22:04:45.786",
+    "expired_date": "2014-01-02 04:21:42.53",
+    "last_sync": "2022-07-01 22:04:45.786"
+  },
+  {
+    "jenis_tinggal_id": 9,
+    "nama": "unknown",
+    "create_date": "2014-01-02 04:21:52.477",
+    "last_update": "2022-07-01 22:04:45.786",
+    "expired_date": "2014-01-02 04:21:42.53",
+    "last_sync": "2022-07-01 22:04:45.786"
+  },
+  {
+    "jenis_tinggal_id": 10,
+    "nama": "Pesantren",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2022-07-01 22:04:45.786",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.786"
+  },
+  {
+    "jenis_tinggal_id": 99,
+    "nama": "Lainnya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:45.786",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:45.786"
+  }
+]

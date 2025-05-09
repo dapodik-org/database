@@ -1,0 +1,34 @@
+[
+  {
+    "status_kepemilikan_id": 1,
+    "nama": "Pemerintah Pusat",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:03:39.297",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:03:39.297"
+  },
+  {
+    "status_kepemilikan_id": 2,
+    "nama": "Pemerintah Daerah",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:03:39.297",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:03:39.297"
+  },
+  {
+    "status_kepemilikan_id": 3,
+    "nama": "Yayasan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:03:39.297",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:03:39.297"
+  },
+  {
+    "status_kepemilikan_id": 4,
+    "nama": "Lainnya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:03:39.298",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:03:39.298"
+  }
+]

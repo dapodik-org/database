@@ -1,0 +1,26 @@
+[
+  {
+    "status_anak_id": 1,
+    "nama": "Anak Kandung",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:50.269",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:50.269"
+  },
+  {
+    "status_anak_id": 2,
+    "nama": "Anak Tiri",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:50.27",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:50.27"
+  },
+  {
+    "status_anak_id": 3,
+    "nama": "Anak Angkat",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:04:50.27",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:04:50.27"
+  }
+]

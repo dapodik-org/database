@@ -1,0 +1,18 @@
+[
+  {
+    "kategori_desa_id": 1,
+    "nama": "Desa Khusus (Kepmen 580/2020)",
+    "create_date": "2020-06-30 11:06:30.86",
+    "last_update": "2023-05-29 13:02:09.523",
+    "expired_date": "2022-06-21 14:56:37.09",
+    "last_sync": "2023-05-29 13:02:09.523"
+  },
+  {
+    "kategori_desa_id": 2,
+    "nama": "Desa Khusus (Kepmen 160/2021)",
+    "create_date": "2022-06-21 14:57:56.37",
+    "last_update": "2023-05-29 13:02:09.523",
+    "expired_date": null,
+    "last_sync": "2023-05-29 13:02:09.523"
+  }
+]
